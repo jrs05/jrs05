@@ -1,6 +1,5 @@
 Hi, I’m @jrs05
-I’m interested in software engineering
-I’m currently learning front end development, javascript, python...
+
 
 
 
